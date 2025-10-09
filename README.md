@@ -43,13 +43,13 @@ Here's my toolkit for transforming data into insights!
 
 Get ready to see some data magic! My program at WBS Coding School is all about hands-on learning, and these upcoming projects are where I put theory into practice. Each one is a step closer to becoming a data wizard! ✨
 
-### 💼 Case Study: Moosic (Expected: September 2025)
+### 💼 Case Study: Moosic
 
 ![Moosic Logo](https://learn.wbscodingschool.com/wp-content/uploads/2024/09/moosic_logo.webp)
 
 **Moosic** is my deep dive into the world of music and data! This project tackles the challenge of **automating playlist creation for a booming start-up using Spotify's audio features.** I'll be exploring various **clustering algorithms** (think K-Means, DBSCAN, Hierarchical Clustering) to organize songs into meaningful "mood" or "style" clusters. The goal? To see if data science can reveal surprising connections between songs, perhaps even outperforming human curation! This project showcases my ability to **apply unsupervised learning to real-world problems** and evaluate different algorithmic approaches.
 
-### 💼 Case Study: Predicting House Prices (Expected: October 2025)
+### 💼 Case Study: Predicting House Prices
 
 ![Selling Home](https://learn.wbscodingschool.com/wp-content/uploads/2021/09/selling-home.webp)
 
@@ -81,9 +81,7 @@ For my **final capstone project**, I'm combining my healthcare background with c
 
 Want to connect, collaborate, or chat about data, healthcare, or AI? Feel free to reach out!
 
-- **Personal Website & Art Portfolio:** [Shenia Bosch Artwork](https://sheniabosch.wixsite.com/artwork) 🎨✨ (Yes, that's my personal art site!)
-    * ![Art Piece 1 from Portfolio](a47884_9f40cf52ceed43a4a139e2f6acb82594~mv2.jpg)
-    * ![Art Piece 2 from Portfolio](a47884_f5ba5d24476243f0911ca3dc460b388f~mv2.avif)
+- **Personal Art Portfolio:** [Shenia Bosch Artwork](https://sheniabosch.wixsite.com/artwork) 🎨✨ (Yes, that's my personal art site!)
 - **LinkedIn:** [Shenia Bosch](https://www.linkedin.com/in/sheniabosch/)
 - **GitHub:** [SheniaBosch](https://github.com/SheniaBosch)
 
