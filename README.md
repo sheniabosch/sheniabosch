@@ -1,6 +1,5 @@
 # Hi there, I'm Shenia! 👋
 
-![Banner Image](https://media.licdn.com/dms/image/v2/D4E16AQEjmDpT0qhFaw/profile-displaybackgroundimage-shrink_350_1400/B4EZengu78HgAY-/0/1750862067238?e=1756339200&v=beta&t=DsSWXS9mDAW99h5k4cIboLa6tGwRKVXCVr-W7Vn0rjk)
 
 ## About Me 🚀
 
