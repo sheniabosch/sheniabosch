@@ -9,7 +9,7 @@ I'm currently immersed in a comprehensive one-year Data Science & AI program at 
 
 - 🌱 Currently learning: **Advanced Machine Learning, Large Language Models, and Data Ethics** 🤖💡 My curiosity for understanding complex patterns and ethical AI development is at an all-time high!
 - 🔭 Working on: Building a robust portfolio through **13 hands-on projects** and a **final capstone project** focused on real-world data challenges. Think data-driven solutions for e-commerce, music, and even housing! 🏘️🎶
-- 🌍 Languages: Python (PCEP Certified!)🐍, SQL📊, German (C1)🇩🇪, English (Native)🇬🇧
+- 🌍 Languages: Python🐍, SQL📊, German (C1)🇩🇪, English (Native)🇬🇧
 - 📫 How to reach me: Drop me a line at [sheniabosch@gmail.com](mailto:sheniabosch@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/sheniabosch/)! 📧
 - ⚡ Fun fact: I've spent over a decade in healthcare and management, which means I can diagnose a data problem with the same precision I once used for patient care! 🩺➡️📊 And sometimes, I even turn data into art! 🖼️✨ (Scroll down to see some of my work!)
 
