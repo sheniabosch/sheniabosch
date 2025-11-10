@@ -1,9 +1,9 @@
-# Hi there, I'm Shenia! 👋
+# What up, Buttercup? 🧁  I'm Shenia! 👋
 
 
 ## About Me 🚀
 
-Jr. Data Scientist | Healthcare Data Analyst | 13+ yrs Leadership | Python, SQL, Azure, ML | Empathy-Driven | AI & Cloud Enthusiast | Bridging Healthcare + Data for Optimal Patient Outcomes
+Aspiring Jr. Data Scientist | Artist | 13+ yrs Leadership | Python, SQL, Azure, ML | Empathy-Driven | AI & Cloud Enthusiast | Bridging Healthcare + Data for Optimal Patient Outcomes
 
 I'm currently immersed in a comprehensive one-year Data Science & AI program at WBS Coding School, designed to equip me with cutting-edge skills for a data-driven career. This full-time program, which includes 10 months of live lessons and a 2-month internship, focuses heavily on practical, hands-on projects, enabling me to build an impressive portfolio. I'm mastering essential tools and techniques daily, including data analysis with SQL and Python, creating dashboards, and working extensively with Machine Learning and AI models. My studies cover foundational concepts to advanced techniques, with modules spanning data science fundamentals, data exploration and analytics, cloud computing, and machine learning and AI, including image recognition, large language models, and data ethics. Furthermore, I am preparing for and obtaining industry-relevant certifications such as Microsoft Azure Fundamentals (DP-900), PCEP Python, and Scikit-learn, which validate my technical expertise. This program is preparing me to turn complex data into meaningful actions and drive innovation.
 
@@ -55,7 +55,7 @@ Get ready to see some data magic! My program at WBS Coding School is all about h
 
 In **Predicting House Prices**, I'm stepping into the shoes of a real estate consultant. My mission is to build a **predictive model** that accurately estimates house values based on around 80 different property features. This project is all about mastering **regression analysis**, handling complex datasets, and ensuring unbiased, efficient property valuations. It's a journey into making data-driven decisions that could impact buying and selling strategies for real estate clients!
 
-### 💼 Case Study: Clean Skies London (Expected: November 2025)
+### 💼 Case Study: Clean Skies London (Expected: December 2025)
 
 ![Clean Skies London](https://learn.wbscodingschool.com/wp-content/uploads/2024/09/Screenshot-2025-04-30-at-13.57.36-1.webp)
 
@@ -81,8 +81,9 @@ For my **final capstone project**, I'm combining my healthcare background with c
 
 Want to connect, collaborate, or chat about data, healthcare, or AI? Feel free to reach out!
 
-- **Personal Art Portfolio:** [Shenia Bosch Artwork](https://sheniabosch.wixsite.com/artwork) 🎨✨ (Yes, that's my personal art site!)
+- **Personal Art Portfolio:** [Shenia Bosch Artwork](https://sheniabosch.wixsite.com/artwork) 🎨✨ 
 - **LinkedIn:** [Shenia Bosch](https://www.linkedin.com/in/sheniabosch/)
+- **Instagram Tattoo Portfolio:** [Shenia Bosch Tattoo Projects](https://www.instagram.com/the_dark_arts_studio)
 - **GitHub:** [SheniaBosch](https://github.com/SheniaBosch)
 
 Let's build something amazing together!
