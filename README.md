@@ -1,20 +1,14 @@
-# What up, Buttercup? 🧁  I'm Shenia! 👋
+# Hello, I'm Shenia! 👋
 
 
 ## About Me 🚀
 
-Aspiring Jr. Data Scientist | Artist | 13+ yrs Leadership | Python, SQL, Azure, ML | Empathy-Driven | AI & Cloud Enthusiast | Bridging Healthcare + Data for Optimal Patient Outcomes
+Jr. Data Scientist | 21 years Leadership and Management | Python, SQL, Azure | Data Analysis | ML & Cloud Enthusiast | Project Manager Coordinator
 
-I'm currently immersed in a comprehensive one-year Data Science & AI program at WBS Coding School, designed to equip me with cutting-edge skills for a data-driven career. This full-time program, which includes 10 months of live lessons and a 2-month internship, focuses heavily on practical, hands-on projects, enabling me to build an impressive portfolio. I'm mastering essential tools and techniques daily, including data analysis with SQL and Python, creating dashboards, and working extensively with Machine Learning and AI models. My studies cover foundational concepts to advanced techniques, with modules spanning data science fundamentals, data exploration and analytics, cloud computing, and machine learning and AI, including image recognition, large language models, and data ethics. Furthermore, I am preparing for and obtaining industry-relevant certifications such as Microsoft Azure Fundamentals (DP-900), PCEP Python, and Scikit-learn, which validate my technical expertise. This program is preparing me to turn complex data into meaningful actions and drive innovation.
+##Professional Profile
+I am a graduate of the intensive Data Science & AI program at WBS Coding School (Feb 2026), where I completed 1,200+ hours of rigorous, project-based training. My background is defined by a transition from foundational data principles to deploying advanced Machine Learning and AI solutions. I specialize in transforming complex, raw datasets into actionable business intelligence and ethical AI applications.
 
-- 🌱 Currently learning: **Advanced Machine Learning, Large Language Models, and Data Ethics** 🤖💡 My curiosity for understanding complex patterns and ethical AI development is at an all-time high!
-- 🔭 Working on: Building a robust portfolio through **13 hands-on projects** and a **final capstone project** focused on real-world data challenges. Think data-driven solutions for e-commerce, music, and even housing! 🏘️🎶
-- 🌍 Languages: Python🐍, SQL📊, German (C1)🇩🇪, English (Native)🇬🇧
-- 📫 How to reach me: Drop me a line at [sheniabosch@gmail.com](mailto:sheniabosch@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/sheniabosch/)! 📧
-- ⚡ Fun fact: I've spent over a decade in healthcare and management, which means I can diagnose a data problem with the same precision I once used for patient care! 🩺➡️📊 And sometimes, I even turn data into art! 🖼️✨ (Scroll down to see some of my work!)
-
-## My Skills 🧠
-
+With a technical toolkit centered on Python, SQL, and Cloud Computing, I have earned industry-recognized certifications including Microsoft Azure Fundamentals (DP-900), validating my ability to build scalable, data-driven architectures.
 Here's my toolkit for transforming data into insights!
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -37,7 +31,27 @@ Here's my toolkit for transforming data into insights!
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
 ---
-*Looking for more? Check out my full list of skills on my [LinkedIn Profile](https://www.linkedin.com/in/sheniabosch/).*
+##Key Projects & Real-World Applications
+During my time at WBS, I developed a portfolio of 13 hands-on projects, focusing on solving high-impact challenges:
+
+E-Commerce & Retail: Developed predictive models to optimize inventory and analyze consumer behavior patterns.
+
+Real Estate Analytics: Engineered regression models to provide accurate housing market valuations based on multidimensional data.
+
+Audio & Media Processing: Leveraged data exploration techniques to categorize and recommend content within the music industry.
+
+Computer Vision: Automated image classification for the German Sign Language.
+
+NLP & LLMs: Built Large Language Models for ethical sentiment analysis, and accurate language processing.
+
+Capstone Project: Produced a "Pilot Product": InkWell- A tattoo healing assisstant featuring image classification, LLM, Dashboards, and Data Analytics. 
+
+##Current Focus
+I am currently further refining my professional expertise as a Data Department Intern with Essentis gGmbh, a role I will conclude in April 2026. This position allows me to apply my technical training to live enterprise environments, and collaborate with seasoned professionals. In this role I am spearheading an analysis of customer reviews, ensuring data integrity and digging for actionable insights through collaborative AI development.
+
+- 🌍 Languages: Python🐍, SQL📊, German (C1)🇩🇪, English (Native)🇬🇧
+- 📫 How to reach me: Drop me a line at [sheniabosch@gmail.com](mailto:sheniabosch@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/sheniabosch/)! 📧
+- ⚡ Fun fact: Wombat poop is cube-shaped: It’s the only known animal in the world that produces square-shaped droppings, which helps them stack the "cubes" to mark their territory without them rolling away.
 
 ## Featured Projects 💻
 
