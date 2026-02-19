@@ -1,103 +1,87 @@
 # Hello, I'm Shenia! 👋
 
+**Jr. Data Scientist** • Python & SQL • Azure Cloud • ML Enthusiast • Project Coordinator  
+21 years in leadership & management transitioning into data & AI
+
+---
 
 ## About Me 🚀
 
-Jr. Data Scientist | 21 years Leadership and Management | Python, SQL, Azure | Data Analysis | ML & Cloud Enthusiast | Project Manager Coordinator
+I graduated from the intensive **Data Science & AI program** at WBS Coding School (Feb 2026) with **1,200+ hours** of hands-on, project-based training.
 
-##Professional Profile
-I am a graduate of the intensive Data Science & AI program at WBS Coding School (Feb 2026), where I completed 1,200+ hours of rigorous, project-based training. My background is defined by a transition from foundational data principles to deploying advanced Machine Learning and AI solutions. I specialize in transforming complex, raw datasets into actionable business intelligence and ethical AI applications.
+My journey bridges strong foundational data skills with advanced **Machine Learning**, **AI ethics**, and **cloud deployment**. I transform raw data into **actionable business insights** and scalable solutions.
 
-With a technical toolkit centered on Python, SQL, and Cloud Computing, I have earned industry-recognized certifications including Microsoft Azure Fundamentals (DP-900), validating my ability to build scalable, data-driven architectures.
-Here's my toolkit for transforming data into insights!
+**Certified**: Microsoft Azure Data Fundamentals (DP-900)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-30A8FF?style=for-the-badge&logo=seaborn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white)
-![EMR Systems](https://img.shields.io/badge/EMR_Systems-50C878?style=for-the-badge&logoColor=white)
-![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+### My Toolkit
+<table><tr>
+<td><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" height="24"></td>
+<td><img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" height="24"></td>
+<td><img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" height="24"></td>
+<td><img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" height="24"></td>
+</tr><tr>
+<td><img src="https://img.shields.io/badge/Seaborn-30A8FF?style=flat&logo=seaborn&logoColor=white" height="24"></td>
+<td><img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white" height="24"></td>
+<td><img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" height="24"></td>
+<td><img src="https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white" height="24"></td>
+</tr><tr>
+<td><img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" height="24"></td>
+<td><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" height="24"></td>
+<td><img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" height="24"></td>
+<td><img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white" height="24"></td>
+</tr><tr>
+<td><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" height="24"></td>
+<td><img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" height="24"></td>
+<td><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" height="24"></td>
+<td><img src="https://img.shields.io/badge/Looker%20Studio-4285F4?style=flat&logo=looker&logoColor=white" height="24"></td>
+</tr></table>
 
 ---
-##Key Projects & Real-World Applications
-During my time at WBS, I developed a portfolio of 13 hands-on projects, focusing on solving high-impact challenges:
 
-E-Commerce & Retail: Developed predictive models to optimize inventory and analyze consumer behavior patterns.
+## Currently
+Data Department Intern at **Essentis gGmbH** (until April 2026)  
+→ Leading customer review analysis, ensuring data quality, and co-developing AI features in a live enterprise setting.
 
-Real Estate Analytics: Engineered regression models to provide accurate housing market valuations based on multidimensional data.
+**Languages & Tools**  
+🌍 Python🐍 • SQL📊 • German (C1)🇩🇪 • English (Native)🇬🇧
 
-Audio & Media Processing: Leveraged data exploration techniques to categorize and recommend content within the music industry.
-
-Computer Vision: Automated image classification for the German Sign Language.
-
-NLP & LLMs: Built Large Language Models for ethical sentiment analysis, and accurate language processing.
-
-Capstone Project: Produced a "Pilot Product": InkWell- A tattoo healing assisstant featuring image classification, LLM, Dashboards, and Data Analytics. 
-
-##Current Focus
-I am currently further refining my professional expertise as a Data Department Intern with Essentis gGmbh, a role I will conclude in April 2026. This position allows me to apply my technical training to live enterprise environments, and collaborate with seasoned professionals. In this role I am spearheading an analysis of customer reviews, ensuring data integrity and digging for actionable insights through collaborative AI development.
-
-- 🌍 Languages: Python🐍, SQL📊, German (C1)🇩🇪, English (Native)🇬🇧
-- 📫 How to reach me: Drop me a line at [sheniabosch@gmail.com](mailto:sheniabosch@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/sheniabosch/)! 📧
-- ⚡ Fun fact: Wombat poop is cube-shaped: It’s the only known animal in the world that produces square-shaped droppings, which helps them stack the "cubes" to mark their territory without them rolling away.
+---
 
 ## Featured Projects 💻
+Hands-on projects from WBS Coding School — turning theory into impact.
 
-Get ready to see some data magic! My program at WBS Coding School is all about hands-on learning, and these upcoming projects are where I put theory into practice. Each one is a step closer to becoming a data wizard! ✨
+<table>
+<tr>
+<td><img src="https://learn.wbscodingschool.com/wp-content/uploads/2024/09/moosic_logo.webp" width="140" alt="Moosic"></td>
+<td><strong>Moosic</strong><br>Automated playlist generation using Spotify audio features & clustering (K-Means, DBSCAN, Hierarchical). Explored unsupervised learning to uncover hidden song connections.</td>
+</tr>
+<tr>
+<td><img src="https://learn.wbscodingschool.com/wp-content/uploads/2021/09/selling-home.webp" width="140" alt="House Prices"></td>
+<td><strong>Predicting House Prices</strong><br>Regression models to estimate property values from 80+ features. Focused on clean data pipelines, feature engineering, and unbiased real-estate valuation.</td>
+</tr>
+<tr>
+<td><img src="https://learn.wbscodingschool.com/wp-content/uploads/2024/09/Screenshot-2025-04-30-at-13.57.36-1.webp" width="140" alt="Clean Skies London"></td>
+<td><strong>Clean Skies London</strong> (Dec 2025)<br>Time series forecasting of air pollutants (NO₂, O₃, PM₁₀, PM₂.₅) using ARIMA + ML. Aiming to support policy decisions for healthier urban air.</td>
+</tr>
+<tr>
+<td><img src="https://learn.wbscodingschool.com/wp-content/uploads/2025/06/dataset-card-1-1024x1024.png" width="140" alt="Sign Language"></td>
+<td><strong>Learning your ABC’s</strong> (Dec 2025)<br>CNN for German Sign Language (DGS) recognition of A, B, C. Built & labeled custom image dataset from scratch — pure computer vision practice. ✋</td>
+</tr>
+<tr>
+<td><img src="https://github.com/user-attachments/assets/9b6d0cc5-8e84-4f8b-806f-eac6a57bb2f4" width="140" alt="InkWell"></td>
+<td><strong>InkWell — AI Tattoo Healing Companion</strong> (Capstone, Jan/Feb 2026)<br>Image classification + LLM-powered app to monitor tattoo healing, detect risks, and connect users with artists. Blends CV, predictive modeling, dashboards & healthcare insight. 💉</td>
+</tr>
+</table>
 
-### 💼 Case Study: Moosic
-
-![Moosic Logo](https://learn.wbscodingschool.com/wp-content/uploads/2024/09/moosic_logo.webp)
-
-**Moosic** is my deep dive into the world of music and data! This project tackles the challenge of **automating playlist creation for a booming start-up using Spotify's audio features.** I'll be exploring various **clustering algorithms** (think K-Means, DBSCAN, Hierarchical Clustering) to organize songs into meaningful "mood" or "style" clusters. The goal? To see if data science can reveal surprising connections between songs, perhaps even outperforming human curation! This project showcases my ability to **apply unsupervised learning to real-world problems** and evaluate different algorithmic approaches.
-
-### 💼 Case Study: Predicting House Prices
-
-![Selling Home](https://learn.wbscodingschool.com/wp-content/uploads/2021/09/selling-home.webp)
-
-In **Predicting House Prices**, I'm stepping into the shoes of a real estate consultant. My mission is to build a **predictive model** that accurately estimates house values based on around 80 different property features. This project is all about mastering **regression analysis**, handling complex datasets, and ensuring unbiased, efficient property valuations. It's a journey into making data-driven decisions that could impact buying and selling strategies for real estate clients!
-
-### 💼 Case Study: Clean Skies London (Expected: December 2025)
-
-![Clean Skies London](https://learn.wbscodingschool.com/wp-content/uploads/2024/09/Screenshot-2025-04-30-at-13.57.36-1.webp)
-
-**Clean Skies London** is where data meets environmental impact! I'll be working with historical air quality data (NO2, O3, PM10, PM2.5) to **build time series models that predict future pollution levels** in this iconic city. This project will challenge me to understand trends, seasonality, and anomalies in environmental data, exploring both classical models like ARIMA and advanced machine learning methods. My findings will aim to help policymakers make timely decisions for cleaner air and a better quality of life for Londoners. Breathe easy! 🌬️
-
-### 💼 Case Study: Learning your ABC’s (Expected: December 2025)
-
-![Sign Language Dataset](https://learn.wbscodingschool.com/wp-content/uploads/2025/06/dataset-card-1-1024x1024.png)
-
-Time to get hands-on (literally!) with **Learning your ABC's**! This exciting project involves training a **Convolutional Neural Network (CNN) model to recognize hand signs for the letters A, B, and C in German Sign Language (DGS)**. I'll be collecting and labeling my own dataset of hand images, building the CNN from scratch, and training it for image recognition. This project is all about building intuition in **computer vision and neural networks**, one letter at a time! ✋🅰️🅱️©️
-
-### 💉 Final Capstone Project: AI Tattoo Healing Companion (Expected: Jan/Feb 2026)
-
-<img width="496" height="415" alt="Screenshot 2025-07-29 at 13 02 57" src="https://github.com/user-attachments/assets/9b6d0cc5-8e84-4f8b-806f-eac6a57bb2f4" />
-
-
-For my **final capstone project**, I'm combining my healthcare background with cutting-edge AI! I'm designing an **AI-powered app that scans user-input photos of new tattoos to assess their healing progress and identify potential infection risks.** This predictive model will utilize both image analysis and user input on aftercare and environment. The app aims to provide real-time communication between the client and their tattoo artist, guiding the client through a safe and successful healing journey. This project will leverage **predictive modeling, computer vision, and user-friendly interface design** to make a tangible difference in post-tattoo care!
+*13 total projects completed — more always in progress!*
 
 ---
-*More exciting projects are in the pipeline, so stay tuned!*
 
 ## Get in Touch 📬
 
-Want to connect, collaborate, or chat about data, healthcare, or AI? Feel free to reach out!
+- 📧 [sheniabosch@gmail.com](mailto:sheniabosch@gmail.com)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/sheniabosch/)
 
-- **Personal Art Portfolio:** [Shenia Bosch Artwork](https://sheniabosch.wixsite.com/artwork) 🎨✨ 
-- **LinkedIn:** [Shenia Bosch](https://www.linkedin.com/in/sheniabosch/)
-- **Instagram Tattoo Portfolio:** [Shenia Bosch Tattoo Projects](https://www.instagram.com/the_dark_arts_studio)
-- **GitHub:** [SheniaBosch](https://github.com/SheniaBosch)
+Let's talk data, AI, healthcare, or creative projects!
 
-Let's build something amazing together!
+⚡ **Fun fact**: Wombat poop is cube-shaped — the only animal that does this, so the cubes stack and don't roll away when marking territory. 🐾
