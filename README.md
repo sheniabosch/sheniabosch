@@ -43,8 +43,26 @@ Data Department Intern at **Essentis gGmbH** (until April 2026)
 → Leading customer review analysis, ensuring data quality, and co-developing AI features in a live enterprise setting.
 
 **Languages & Tools**  
-🌍 Python🐍 • SQL📊 • German (C1)🇩🇪 • English (Native)🇬🇧
+🌍 **Human Languages**  
+• English (Native) 🇬🇧  
+• German (C1 / Fluent) 🇩🇪  
 
+🐍 **Core Programming & Data Stack**  
+• Python (primary) • SQL (advanced querying) • Git & GitHub  
+
+☁️ **Cloud & Deployment**  
+• Microsoft Azure (DP-900 certified) • Docker basics  
+
+📊 **Data Analysis & Visualization**  
+• Pandas • NumPy • Matplotlib/Seaborn • Tableau • Looker Studio  
+
+🤖 **Machine Learning & AI**  
+• Scikit-learn • TensorFlow basics  
+
+🛠️ **Other Everyday Tools**  
+• Jupyter Notebooks • Microsoft Excel (advanced) • MySQL / PostgreSQL  
+
+Bonus: 13+ years leading teams & projects — turning technical work into business value & stakeholder wins.
 ---
 
 ## Featured Projects 💻
