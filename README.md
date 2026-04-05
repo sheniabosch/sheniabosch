@@ -7,7 +7,7 @@
 [![Azure DP-900](https://img.shields.io/badge/Azure_DP--900_Certified-0d2137?style=flat&logo=microsoftazure&logoColor=0fb8a4)](https://learn.microsoft.com/en-us/certifications/azure-data-fundamentals/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d2137?style=flat&logo=linkedin&logoColor=0fb8a4)](https://www.linkedin.com/in/sheniabosch/)
 [![Email](https://img.shields.io/badge/sheniabosch@gmail.com-0d2137?style=flat&logo=gmail&logoColor=0fb8a4)](mailto:sheniabosch@gmail.com)
-![Location](https://img.shields.io/badge/Frankfurt,_DE-0d2137?style=flat&logo=googlemaps&logoColor=0fb8a4)
+![Location](https://img.shields.io/badge/Hessen,_DE-0d2137?style=flat&logo=googlemaps&logoColor=0fb8a4)
 ![Languages](https://img.shields.io/badge/EN_·_DE_(C1)-0d2137?style=flat&logoColor=0fb8a4)
 
 </div>
@@ -60,7 +60,14 @@ I turn raw data into **actionable business insights** and scalable solutions. Wh
 
 ## Featured Projects
 
-> 13 total projects completed — more always in progress!
+---
+
+### 📊 WBS Student Review Analytics Platform — End-to-End Analytics Pipeline *(Internship, Feb 2026)*
+Modular Python data pipeline + NLP sentiment analysis + live Looker Studio dashboard built for WBS Coding School. Cleans reviews from three misaligned sources, scores sentiment, flags aspects, runs statistical tests across cohorts, and auto-syncs to a four-page BI dashboard. Delivered as a ready-to-use marketing asset.
+
+`Python` `NLP` `VADER` `FAISS` `Sentence Transformers` `ANOVA` `Looker Studio` `Google Sheets API` `pandas` `scikit-learn` `ETL Pipeline` `Data Cleaning`
+
+---
 
 ### 💉 InkWell — AI Tattoo Healing Companion *(Capstone, Jan/Feb 2026)*
 Image classification + LLM-powered app to monitor tattoo healing, detect risks, and connect users with artists. Blends computer vision, predictive modeling, dashboards, and healthcare insight.
