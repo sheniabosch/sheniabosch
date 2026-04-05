@@ -1,7 +1,6 @@
 # Hello, I'm Shenia! 👋
 
-**Jr. Data Scientist** • Python & SQL • Azure Cloud • ML Enthusiast • Project Coordinator  
-21 years in leadership & management transitioning into data & AI
+**Data Scientist** • **Data Analyst** | Certified Nurse Assistant | Python, SQL, Azure, ML & Cloud | Project Manager & Coordinator
 
 ---
 
@@ -9,9 +8,9 @@
 
 I graduated from the intensive **Data Science & AI program** at WBS Coding School (Feb 2026) with **1,200+ hours** of hands-on, project-based training.
 
-My journey bridges strong foundational data skills with advanced **Machine Learning**, **AI ethics**, and **cloud deployment**. I transform raw data into **actionable business insights** and scalable solutions.
+My strong foundational data skills with advanced **Machine Learning**, **AI ethics**, and **cloud deployment**, transform raw data into **actionable business insights** and scalable solutions.
 
-**Certified**: Microsoft Azure Data Fundamentals (DP-900)
+**Certified**: Microsoft Azure Data Fundamentals (DP-900), AZ State Board of Nursing CNA
 
 ### My Toolkit
 <table><tr>
@@ -40,7 +39,7 @@ My journey bridges strong foundational data skills with advanced **Machine Learn
 
 ## Currently
 Data Department Intern at **Essentis gGmbH** (until April 2026)  
-→ Leading customer review analysis, ensuring data quality, and co-developing AI features in a live enterprise setting.
+→ Leading and coordinating a customer review analysis, ensuring data quality, and developing AI features in a project pipeline, in a remote setting.
 
 **Languages & Tools**  
 🌍 **Human Languages**  
@@ -62,7 +61,8 @@ Data Department Intern at **Essentis gGmbH** (until April 2026)
 🛠️ **Other Everyday Tools**  
 • Jupyter Notebooks • Microsoft Excel (advanced) • MySQL / PostgreSQL  
 
-Bonus: 13+ years leading teams & projects — turning technical work into business value & stakeholder wins.
+Bonus: Teamn Coordination and Project Management: I bring the right people together to create and curate effective teams. 
+       Data Storytelling: turning technical work into compelling stories, creating business value & stakeholder wins.
 ---
 
 ## Featured Projects 💻
